@@ -1,0 +1,142 @@
+@0  = ~Jan's Alchemy mod do BG II, BG II EE i EET~
+@1  = ~Musisz miec zainstalowane BG II, BGT, BG II EE lub EET by moc zainstalowac Jan's Alchemy.~
+
+@11 = ~Zakurzona ksiêga~
+@12 = ~Ksiêga mikstur Jana~
+@13 = ~Zbiór przepisów Jana obejmuje zupy, soki, sosy i mikstury – a wszystko to hojnie okraszone opowieœciami o jego rodzinie i rzepie. Mimo tego kulinarno-familijnego chaosu udaje ci siê wy³owiæ osiem sensownych przepisów na mikstury.
+
+Z zapisków Jana wynika, ¿e ka¿da mikstura wymaga sk³adników w œciœle okreœlonych proporcjach. Nawet drobna pomy³ka mo¿e skoñczyæ siê wybuchem... albo czymœ znacznie gorszym. Z³oto, wykorzystywane jedynie na zakup materia³ów, jest tu jedynym wyj¹tkiem – mo¿esz mieæ go wiêcej, ni¿ wskazano w przepisie.
+
+Przepis 1: Mikstura bitewnej ¿¹dzy
+– 2 krwawniki
+– 1 czarny opal
+– 1 olej szybkoœci
+– 300 szt. z³ota na materia³y
+
+Przepis 2: Lana mikstura maga
+– 1 chalcedon
+– 1 granat
+– 1 zwój Chaosu
+– 700 szt. z³ota na materia³y
+
+Przepis 3: Dar zabójcy
+– 1 kamieñ ksiê¿ycowy
+– 3 korale rogowe
+– 1 mikstura z³odziejskiego mistrzostwa
+– 700 szt. z³ota
+
+Przepis 4: Mikstura si³y ogra
+– 1 akwamaryn
+– 2 diopsydy gwiaŸdziste
+– 1 mikstura si³y lodowego olbrzyma
+– 300 szt. z³ota
+
+Przepis 5: Tarcza umys³u
+– 1 chryzoberyl
+– 3 jaspisy
+– 2 mikstury klarownoœci
+– 1 zwój Okropnego zauroczenia
+– 1 zwój Jasnowidzenia
+– 2000 szt. z³ota
+
+Przepis 6: Magiczna ochrona
+– 1 szafir gwiaŸdzisty
+– 1 mikstura ochrony
+– 1 zwój Szczêœcia
+– 1000 szt. z³ota
+
+Przepis 7: Stra¿nik wrót
+– 1 wodny opal
+– 1 wodna gwiazda
+– 3 mikstury uwolnienia
+– 1 zwój Uwiêzienia
+– 3000 szt. z³ota
+
+Przepis 8: Uzdrowienie
+– 3 mikstury leczenia
+– 3 mikstury dodatkowego leczenia
+– 300 szt. z³ota
+~
+@14 = ~Ksiêga mikstur Jana
+
+Zawiera 8 przepisów na mikstury autorstwa Jana.~
+
+@23 = ~*pije*~
+@24 = ~Wa¿ne do:~
+
+@31 = ~Mikstura bitewnej ¿¹dzy~
+@32 = ~Po wypiciu tej mikstury fala energii przep³ywa przez cia³o, zwiêkszaj¹c skutecznoœæ bojow¹ pij¹cego. Zapewnia wszystkie korzyœci szybszego i precyzyjniejszego ataku przez 15 tur. Kolejne dawki zapewniaj¹ jedynie czêœciowy efekt
+
+PARAMETRY:
+
+Waga: 1~
+
+@33 = ~Lana mikstura maga~
+@34 = ~Po wypiciu tej mikstury fala energii przep³ywa przez umys³, pozwalaj¹c pij¹cemu  przypomnieæ sobie utracone zaklêcia.
+
+PARAMETRY:
+
+– Przywraca po jednym zaklêciu z poziomów 1-5.
+
+Waga: 1~
+
+@35 = ~Dar zabójcy~
+@36 = ~Po wypiciu tej mikstury fala energii przep³ywa przez cia³o, zwiêkszaj¹c zdolnoœæ do zadawania ciosów w plecy przez 15 tur.
+
+PARAMETRY:
+
+– Mno¿nik ciosu w plecy: +2
+– TraK0: 0
+
+Waga: 1~
+
+@37 = ~Mikstura si³y ogra~
+@38 = ~Po wypiciu tej mikstury fala energii przep³ywa przez cia³o, zwiêkszaj¹c zdolnoœæ zadawania maksymalnych obra¿eñ przy ka¿dym ciosie przez 15 tur.
+
+PARAMETRY:
+
+Waga: 1~
+
+@39 = ~Tarcza umys³u~
+@40 = ~Mikstura ta zachowuje jasnoœæ myœli i chroni przed szaleñstwem. Po jej wypiciu pij¹cy zyskuje odpornoœæ na takie efekty jak otêpienie, zamêt, zauroczenie, strach, og³uszenie, unieruchomienie, za³amanie morale oraz utrata przytomnoœci – choæ nadal mo¿na siê upiæ! Dzia³anie trwa do koñca zaklêcia lub do jego rozproszenia.
+
+PARAMETRY:
+
+Chroni przed otêpieniem, zamêtem, strachem, zauroczeniem, og³uszeniem, unieruchomieniem i utrat¹ przytomnoœci
+Czas dzia³ania: 15 tur
+
+Waga: 1~
+
+@41 = ~Magiczna ochrona~
+@42 = ~Wypicie tej mikstury zapewnia siln¹ ochronê magiczn¹, zwiêkszaj¹c szanse na odparcie zaklêcia.
+
+PARAMETRY:
+
+Rzuty obronne: +5
+Czas dzia³ania: 1 dzieñ
+
+Waga: 1~
+
+@43 = ~Stra¿nik wrót~
+@44 = ~Po wypiciu tej mikstury fala energii przep³ywa przez cia³o, zapewniaj¹c ochronê przed zaklêciami i efektami podobnymi do pogrzebania ¿ywcem przez 1 godzinê.
+
+PARAMETRY:
+
+Waga: 1~
+
+@45 = ~Uzdrowienie~
+@46 = ~Po wypiciu tej mikstury fala energii przep³ywa przez cia³o, natychmiast przywracaj¹c wszystkie utracone punkty ¿ycia.
+
+PARAMETRY:
+
+– Przywraca wszystkie punkty ¿ycia
+
+Waga: 1~
+
+
+/* ================= *
+ *  Usability flags  *
+ * ================= */
+@9001 = ~Mo¿e u¿ywaæ:~
+//@9001 = ~[Uu]sable[ %tab%]+[Bb]y[ %tab%]*:~
+@9002 = ~Nie mo¿e u¿ywaæ:~
