@@ -55,8 +55,7 @@ Przepis 7: Stra¿nik wrót
 Przepis 8: Uzdrowienie
 – 3 mikstury leczenia
 – 3 mikstury dodatkowego leczenia
-– 300 szt. z³ota
-~
+– 300 szt. z³ota~
 @14 = ~Ksiêga mikstur Jana
 
 Zawiera 8 przepisów na mikstury autorstwa Jana.~
@@ -76,6 +75,7 @@ Waga: 1~
 
 PARAMETRY:
 
+Specjalne:
 – Przywraca po jednym zaklêciu z poziomów 1-5.
 
 Waga: 1~
@@ -85,7 +85,8 @@ Waga: 1~
 
 PARAMETRY:
 
-– Mno¿nik ciosu w plecy: +2
+Specjalne:
+– Modyfikator ciosu w plecy: +2
 – TraK0: 0
 
 Waga: 1~
@@ -102,7 +103,8 @@ Waga: 1~
 
 PARAMETRY:
 
-Chroni przed otêpieniem, zamêtem, strachem, zauroczeniem, og³uszeniem, unieruchomieniem i utrat¹ przytomnoœci
+Specjalne:
+– Chroni przed otêpieniem, zamêtem, strachem, zauroczeniem, og³uszeniem, unieruchomieniem i utrat¹ przytomnoœci
 Czas dzia³ania: 15 tur
 
 Waga: 1~
@@ -129,6 +131,7 @@ Waga: 1~
 
 PARAMETRY:
 
+Specjalne:
 – Przywraca wszystkie punkty ¿ycia
 
 Waga: 1~
